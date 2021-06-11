@@ -4,8 +4,9 @@
   "description": "this is the first api project in which we use weather api",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
 
   },
   "author": "",
